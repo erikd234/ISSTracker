@@ -46,5 +46,5 @@ app.*.map.json
 /android/app/release
 
 #sensitive information API keys.
-/ios/Runner/AppDelegate.m
-/ios/Runner/AppDelegate.swift
+ios/Runner/AppDelegate.m
+ios/Runner/AppDelegate.swift
